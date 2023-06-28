@@ -14,7 +14,8 @@ let drawCanvas= () =>{
 }
 
 let generateScales = () =>{
-
+    xScale = d3.scaleLinear()
+               .range([padding,width-padding])
 }
 
 let drawPoints = ()=>{
@@ -22,7 +23,12 @@ let drawPoints = ()=>{
 }
 
 let generateAxis = () =>{
+    let xAxis = d3.axisBottom(xScale);
 
+    svg.append("g")
+        .call(xAxis)
+        .attr("id","x-axis")
+        .attr("transform","translate(0,"+(height-padding)+")")
 }
 
 req.open('GET',url,true)
