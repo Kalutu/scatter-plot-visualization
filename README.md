@@ -32,3 +32,17 @@ The project structure is as follows:
 - `index.html`: The HTML file that contains the structure and elements of the web page.
 - `style.css`: The CSS file that defines the styles and layout of the web page.
 - `script.js`: The JavaScript file that contains the logic for generating the scatterplot graph using D3.js.
+
+## Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## Credits
+
+This project is based on a tutorial or example from the freeCodeCamp project. The original code can be found [here](https://github.com/freeCodeCamp/ProjectReferenceData).
+
+Special thanks to freeCodeCamp for providing educational resources and coding challenges to help developers learn and improve their skills.
+
+### Resources
+
+- [D3.js](https://d3js.org/): A powerful JavaScript library for creating data visualizations in the browser.
+- [freeCodeCamp](https://www.freecodecamp.org/): An open-source community that offers a platform for learning web development through hands-on coding projects.
