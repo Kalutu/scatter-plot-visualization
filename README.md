@@ -1,6 +1,8 @@
 # Scatterplot Graph
 This is a scatterplot graph project that displays data about doping in professional bicycle racing. It uses D3.js to visualize the data and allows users to interact with the graph by hovering over data points to see additional information in a tooltip.
 
+## Preview
+![Scatterplot Graph Preview](img/scatterplot-graph.jpg)
 ## Project Description
 The scatterplot graph displays the relationship between the year and the time taken by cyclists in a race. Each data point represents a cyclist, and the color of the data point indicates whether there are doping allegations associated with the cyclist.
 
