@@ -22,4 +22,13 @@ The scatterplot graph displays the relationship between the year and the time ta
 
    ```bash
    git clone <repository_url>
+2. Open the index.html file in a web browser.
 
+3. Interact with the scatterplot graph by hovering over data points to see the tooltip with detailed information.
+
+## Project Structure
+The project structure is as follows:
+
+- `index.html`: The HTML file that contains the structure and elements of the web page.
+- `style.css`: The CSS file that defines the styles and layout of the web page.
+- `script.js`: The JavaScript file that contains the logic for generating the scatterplot graph using D3.js.
