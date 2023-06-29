@@ -39,8 +39,7 @@ The project structure is as follows:
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## Credits
-
-This project is based on a tutorial or example from the freeCodeCamp project. The original code can be found [here](https://github.com/freeCodeCamp/ProjectReferenceData).
+This project is based on a challenge from the freeCodeCamp Data Visualisation projects.
 
 Special thanks to freeCodeCamp for providing educational resources and coding challenges to help developers learn and improve their skills.
 
