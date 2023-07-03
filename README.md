@@ -39,11 +39,10 @@ The project structure is as follows:
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 ## Credits
-This project is based on a challenge from the freeCodeCamp Data Visualisation projects.
+This Scatterplot Graph project is part of the [FreeCodeCamp Data Visualization Certification](https://www.freecodecamp.org/learn/data-visualization/) course. It was completed as one of the required projects in the curriculum.
 
 Special thanks to freeCodeCamp for providing educational resources and coding challenges to help developers learn and improve their skills.
 
 ### Resources
-
 - [D3.js](https://d3js.org/): A powerful JavaScript library for creating data visualizations in the browser.
 - [freeCodeCamp](https://www.freecodecamp.org/): An open-source community that offers a platform for learning web development through hands-on coding projects.
